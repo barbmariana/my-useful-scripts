@@ -1,6 +1,6 @@
 # Useful Scripts
 
-Hi, welcome to my repository. Here you can find useful scripts to run in your computer.
+Hi, welcome to my repository. Here you can find useful scripts to run in your computer. In progress...
 
 ## Script list
 
