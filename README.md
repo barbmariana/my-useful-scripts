@@ -1,8 +1,20 @@
 # Useful Scripts
 
-Hi, welcome to my repository. Here you can find useful scripts to run in your computer. In progress...
+Hi, welcome to my repository. Here you can find useful scripts to run on your computer. *(In progress...)*
 
-## Script list
+## Script List
 
-- Image Converter : Shell Script that converts jpg images to png. You can change the type of the convertions, and play with the script.
-- Git Clean : Remove all .env files from your computer and add .env at gitignore
+### 1. Image Converter
+- **Description:** Shell script that converts JPG images to PNG format.
+- **Features:**
+  - Easily change the type of conversion (e.g., PNG to JPG, GIF to PNG).
+  - Modify the script to support batch conversions or custom output folders.
+
+### 2. Git Clean
+- **Description:** Script to remove all `.env` files from your computer.
+- **Features:**
+  - Adds `.env` to your `.gitignore` automatically.
+  - Prevents sensitive information from being committed.
+
+## License
+MIT License.
